@@ -60,10 +60,7 @@ class _LicenseRegisterDialogState extends State<LicenseRegisterDialog> {
       numberController.text = widget.licenseModel!.number;
       environmentalAgencyController.text =
           widget.licenseModel!.environmentalAgency;
-      issuanceController.text = widget.licenseModel!.issuance.toString();
-      expirationController.text = widget.licenseModel!.expiration.toString();
     }
-
     return AlertDialog(
       content: SingleChildScrollView(
         scrollDirection: Axis.vertical,
