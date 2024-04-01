@@ -5,8 +5,21 @@ Este projeto é um sistema de gerenciamento desenvolvido com Flutter e Firebase 
 ## Funcionalidades
 
 - **Autenticação de Usuários:** Login e criação de conta utilizando FirebaseAuth.
+
+https://github.com/LuanFortunato/desafio_flutter_ambisis/assets/66745466/fe9f9400-f8ea-4569-bec6-f89885d51a48
+
+
+  
 - **CRUD de Empresas:** Permite a gestão de empresas, incluindo a adição, leitura, atualização e exclusão de registros.
+
+https://github.com/LuanFortunato/desafio_flutter_ambisis/assets/66745466/31d01b54-a6e9-479f-8107-2e921ae44758
+
+
 - **CRUD de Licenças Ambientais:** Gerenciamento de licenças ambientais associadas a empresas específicas.
+
+https://github.com/LuanFortunato/desafio_flutter_ambisis/assets/66745466/645103a2-dbab-4988-a8df-d53ec8df406d
+
+
 - **Segurança de Dados:** Acesso ao Firestore restrito a usuários logados.
 
 ## Configuração do Ambiente
